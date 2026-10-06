@@ -1,10 +1,10 @@
 
 # Dharmith (Dharmzzz)<br><br>First-year Integrated MCA student at Rajagiri College of Social Sciences, focused on Full-Stack Development, Cybersecurity, and Applied AI Engineering.<br><br>Experienced in building software solutions across the entire lifecycle—from responsive user interfaces to complex, scalable backend architectures—with an emphasis on code quality, performance, and application security.<br><br>---<br><br>### Core Focus Areas<br><br>- Cybersecurity: Exploring application security, vulnerability assessment, and secure software development practices.<br>- AI Engineering: Designing and integrating intelligent systems, leveraging LLM APIs, and building Python data pipelines.<br>- Full-Stack Engineering: Developing end-to-end web applications, modular APIs, and database-driven services.<br><br>---<br><br>### Technical Skills<br><br>- Languages: C, C++, Python, JavaScript<br>- Frontend: React, HTML5, CSS3<br>- Backend & Databases: Node.js, Express, MongoDB<br>- Cloud & Tools: Git, GitHub, Vercel, Railway, Linux<br><br>---<br><br>### Education<br><br>- Integrated Master of Computer Applications (IMCA)<br>  Rajagiri College of Social Sciences (In Progress)<br><br>---<br><br>
 
-## 🌐 Socials:
+# Connect :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dharmythic_) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 <marquee direction="up" scrollamount="4" height="200" behavior="scroll">
   <div align="center">
     
@@ -13,13 +13,13 @@
   </div>
 </marquee>
 
-# 📊 GitHub Stats:
+# Stats:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Dharmzzz&layout=compact&langs_count=5&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=Dharmzzz&layout=compact&langs_count=5&theme=tokyonight)
 
-## 🏆 GitHub Trophies
+## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dharmzzz&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
